@@ -1,97 +1,61 @@
+'use strict';
+
+/*
+ * Dependencies.
+ */
+
+ var links = ['http://weather.gc.ca/city/pages/nb-23_metric_e.html'
+            ,'http://weather.gc.ca/city/pages/nb-25_metric_e.html'
+            ,'http://weather.gc.ca/city/pages/nb-29_metric_e.html'];
+
+var fs,
+    Scraper;
+
+fs = require('fs');
+Scraper = require('scraperjs').DynamicScraper;
+
+/**
+ * Scrape.
+ *
+ * @return {Array.<string>}
+ */
 
 
-// var scraperjs = require('scraperjs');
-
-var links = ['http://weather.gc.ca/city/pages/nb-23_metric_e.html'
-			,'http://weather.gc.ca/city/pages/nb-25_metric_e.html'
-			,'http://weather.gc.ca/city/pages/nb-29_metric_e.html'];
-
-var bar = [];
-
-// var foo = links.map( function(i){
-
-// scraperjs.StaticScraper.create(i)
-//     .scrape(function($) {
-//         return $("#wxo-conditiondetails .longContent").map(function() {
-//             return $(this).text();
-//         }).get();
-//     }, function(news) {
-//     	return JSON.stringify(news);
-//         // console.log(news);
-//     })
-
-// });
-
-
-
-// console.log(foo);
-
-
-var async = require('async');
-var fs = require('fs');
-
-var scraperjs = require('scraperjs'),
-    router = new scraperjs.Router();
-
-router
-    .otherwise(function(url) {
-    console.log("Url '"+url+"' couldn't be routed.");
-});
-
-
-
-router.on('http://weather.gc.ca/city/pages/*')
-    .createStatic()
-    .scrape(function($) {
-        return $("#wxo-conditiondetails .longContent").map(function() {
+function scrape() {
+        return $("#wxo-conditiondetails .longContent").map(function(data) {
+            console.log(data);
             return $(this).text();
-        }).get();
-    }, function(data) {
-        // path[utils.params.id] = links
-		return data[0].toString().trim();
-
-    })
-
-// var bar = links.map(function(i){
-// 				router.route(i,function(error,data) {
-//                 		return data; 
-//                 		});
-// 						}, function(e){
-// 						 console.log(e);});
-
-function routez(url,callback){
-	callback(null,router.route(url,function(error,transformed){
-							// console.log(transformed);
-							return transformed;
-
-							})
-
-							);
-
+        });
 }
 
-async.mapSeries(links, routez, function(err,result){ console.log(result.promises[1]); });
+/**
+ * Clean scraped data.
+ *
+ * @param {Array.<string>} values
+ * @return {Array.<string>}
+ */
+function parse(values) {
 
+    values = values[0].toString().trim();
 
+    console.log(values);
+    return values;
+}
 
+/**
+ * Write clean data.
+ *
+ * @param {Array.<string>} results - Raw data.
+ */
+function save(results) {
+    fs.appendFile('data/windspeed.txt', parse(results).concat('\n'),function(err){if (err) throw err;});
+}
 
-// console.log(qux);
-// console.log(qux);
+/*
+ * Scraper.
+ */
+links.map(function(i){
 
-// for(var i = 0; i < links.length; i++){
+Scraper.create(i).scrape(scrape, save);
 
-// 			router.route(links[i],function(error,data) {
-                						
-//                 console.log(data);
-//                 		});
-
-
-// 			};
-
-
-
-
-// console.log(bar);
-
-
-// console.log(baz);
+});

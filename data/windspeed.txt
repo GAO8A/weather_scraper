@@ -1,1 +1,3 @@
-WSW 12 km/h
+WSW 10 km/h
+W 11 km/h
+WSW 8 km/h
