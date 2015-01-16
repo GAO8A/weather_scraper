@@ -28,6 +28,7 @@ var bar = [];
 
 
 var async = require('async');
+var fs = require('fs');
 
 var scraperjs = require('scraperjs'),
     router = new scraperjs.Router();
@@ -60,18 +61,16 @@ router.on('http://weather.gc.ca/city/pages/*')
 
 function routez(url,callback){
 	callback(null,router.route(url,function(error,transformed){
-							console.log(transformed);
-							bar.push(transformed);
-							console.log(bar);
-							return bar;
+							// console.log(transformed);
+							return transformed;
+
 							})
 
 							);
-	console.log(callback);
 
 }
 
-async.map(links, routez, function(err,result){ console.log('done'); });
+async.mapSeries(links, routez, function(err,result){ console.log(result.promises[1]); });
 
 
 
