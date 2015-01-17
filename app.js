@@ -1,41 +1,39 @@
 'use strict';
 
-/*
- * Dependencies.
- */
 
+var links = [];
 
- // causes a memory leak...
-
- var links = [];
-
-
- for(var i = 1;i<36;i++){
+ for(var i = 1;i<37;i++){
     if (i == 7) continue; // nb-7 doesnt exist
     links.push('http://weather.gc.ca/city/pages/nb-' + i + '_metric_e.html');
  }
 
+/*
+ * Dependencies.
+ */
 
 var fs,
     Scraper,
     async;
 
 fs = require('fs');
-Scraper = require('scraperjs').DynamicScraper;
+Scraper = require('scraperjs').StaticScraper;
 async = require('async');
 
 /**
  * Scrape.
  *
+  * @param {Object} jQuery for StaticScraper
  * @return {Array.<string>}
  */
 
 
-function scrape() {
+function scrape($) { 
 
         return $("#wxo-conditiondetails").map(function(data) {
-            
+            console.log($(this).text());
             return $(this).text();
+
         });
 
 
@@ -69,6 +67,7 @@ function save(results) {
  * Scraper.
  */
 
+// non async version
 
 // links.map(function(i){
 
