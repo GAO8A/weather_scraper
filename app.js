@@ -4,15 +4,25 @@
  * Dependencies.
  */
 
- var links = ['http://weather.gc.ca/city/pages/nb-23_metric_e.html'
-            ,'http://weather.gc.ca/city/pages/nb-25_metric_e.html'
-            ,'http://weather.gc.ca/city/pages/nb-29_metric_e.html'];
+
+ // causes a memory leak...
+
+ var links = [];
+
+
+ for(var i = 1;i<36;i++){
+    if (i == 7) continue; // nb-7 doesnt exist
+    links.push('http://weather.gc.ca/city/pages/nb-' + i + '_metric_e.html');
+ }
+
 
 var fs,
-    Scraper;
+    Scraper,
+    async;
 
 fs = require('fs');
 Scraper = require('scraperjs').DynamicScraper;
+async = require('async');
 
 /**
  * Scrape.
@@ -22,10 +32,13 @@ Scraper = require('scraperjs').DynamicScraper;
 
 
 function scrape() {
-        return $("#wxo-conditiondetails .longContent").map(function(data) {
-            console.log(data);
+
+        return $("#wxo-conditiondetails").map(function(data) {
+            
             return $(this).text();
         });
+
+
 }
 
 /**
@@ -39,6 +52,7 @@ function parse(values) {
     values = values[0].toString().trim();
 
     console.log(values);
+
     return values;
 }
 
@@ -54,8 +68,21 @@ function save(results) {
 /*
  * Scraper.
  */
-links.map(function(i){
 
-Scraper.create(i).scrape(scrape, save);
 
-});
+// links.map(function(i){
+
+// Scraper.create(i).scrape(scrape, save);
+
+// });
+
+
+
+async.map(links,function(item,callback)
+                {
+                    callback(null,Scraper.create(item).scrape(scrape,save));
+
+                },function(error,result){
+                    return result
+
+                });

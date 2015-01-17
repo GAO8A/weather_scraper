@@ -1,3 +1,1422 @@
-WSW 10 km/h
-W 11 km/h
-WSW 8 km/h
+Observed at: 
+                    Fundy Park (Alma)
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                  
+                  
+                    Temperature:
+                    -15.5°C
+                    
+                    Dewpoint:
+                    -21.1°C
+                    
+                    Humidity:
+                    62%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -21
+Observed at: 
+                    Miramichi
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -14.4°C
+                    
+                    Dewpoint:
+                    -24.6°C
+                    
+                    Humidity:
+                    42%
+                    Wind:
+                    
+                      W 20 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -23
+Observed at: 
+                    Bouctouche AAFC
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -14.8°C
+                    
+                    Dewpoint:
+                    -23.7°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      W 18  gust 32 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    CFB Gagetown
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.9°C
+                    
+                    Dewpoint:
+                    -26.7°C
+                    
+                    Humidity:
+                    39%
+                    Wind:
+                    
+                      W 17 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    St. Leonard Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -19.5°C
+                    
+                    Dewpoint:
+                    -27.2°C
+                    
+                    Humidity:
+                    50%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    Saint John Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.6°C
+                    
+                    Dewpoint:
+                    -24.5°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      NW 20 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Bas Caraquet
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.0 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    19 km
+                    
+                  
+                  
+                    Temperature:
+                    -14.6°C
+                    
+                    Dewpoint:
+                    -19.3°C
+                    
+                    Humidity:
+                    67%
+                    Wind:
+                    
+                      W 30  gust 44 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    Greater Moncton Int'l Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.3°C
+                    
+                    Dewpoint:
+                    -23.5°C
+                    
+                    Humidity:
+                    50%
+                    Wind:
+                    
+                      W 22  gust 32 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Bas Caraquet
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.0 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    19 km
+                    
+                  
+                  
+                    Temperature:
+                    -14.6°C
+                    
+                    Dewpoint:
+                    -19.3°C
+                    
+                    Humidity:
+                    67%
+                    Wind:
+                    
+                      W 30  gust 44 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    Kouchibouguac
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                  
+                  
+                    Temperature:
+                    -14.8°C
+                    
+                    Dewpoint:
+                    -22.5°C
+                    
+                    Humidity:
+                    52%
+                    Wind:
+                    
+                      WSW 7 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -20
+Observed at: 
+                    Miramichi
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -14.4°C
+                    
+                    Dewpoint:
+                    -24.6°C
+                    
+                    Humidity:
+                    42%
+                    Wind:
+                    
+                      W 20 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -23
+Observed at: 
+                    Nappan AAFC
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.2 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -13.8°C
+                    
+                    Dewpoint:
+                    -19.6°C
+                    
+                    Humidity:
+                    61%
+                    Wind:
+                    
+                      WNW 25 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    Fredericton Int'l Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Visibility:
+                    16 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.0°C
+                    
+                    Dewpoint:
+                    -25.0°C
+                    
+                    Humidity:
+                    43%
+                    Wind:
+                    
+                      W 21  gust 30 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    St. Leonard Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -19.5°C
+                    
+                    Dewpoint:
+                    -27.2°C
+                    
+                    Humidity:
+                    50%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    Bathurst Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -16.1°C
+                    
+                    Dewpoint:
+                    -26.0°C
+                    
+                    Humidity:
+                    43%
+                    Wind:
+                    
+                      WNW 23 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    Fredericton Int'l Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Visibility:
+                    16 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.0°C
+                    
+                    Dewpoint:
+                    -25.0°C
+                    
+                    Humidity:
+                    43%
+                    Wind:
+                    
+                      W 21  gust 30 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    Point Lepreau
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -12.3°C
+                    
+                    Dewpoint:
+                    -21.2°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      NW 12  gust 28 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -19
+Observed at: 
+                    Edmundston
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -18.7°C
+                    
+                    Dewpoint:
+                    -27.7°C
+                    
+                    Humidity:
+                    45%
+                    Wind:
+                    
+                      NNW 6 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    St. Stephen
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -13.2°C
+                    
+                    Dewpoint:
+                    -24.5°C
+                    
+                    Humidity:
+                    38%
+                    Wind:
+                    
+                      NW 8 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -18
+Observed at: 
+                    Saint John Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.6°C
+                    
+                    Dewpoint:
+                    -24.5°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      NW 20 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Charlo
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.3 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -17.8°C
+                    
+                    Dewpoint:
+                    -24.6°C
+                    
+                    Humidity:
+                    55%
+                    Wind:
+                    
+                      W 12 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Miramichi
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -14.4°C
+                    
+                    Dewpoint:
+                    -24.6°C
+                    
+                    Humidity:
+                    42%
+                    Wind:
+                    
+                      W 20 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -23
+Observed at: 
+                    Grand Manan
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    27 km
+                    
+                  
+                  
+                    Temperature:
+                    -12.1°C
+                    
+                    Dewpoint:
+                    -19.0°C
+                    
+                    Humidity:
+                    57%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -17
+Observed at: 
+                    Charlo
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.3 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -17.8°C
+                    
+                    Dewpoint:
+                    -24.6°C
+                    
+                    Humidity:
+                    55%
+                    Wind:
+                    
+                      W 12 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    St. Leonard Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -19.5°C
+                    
+                    Dewpoint:
+                    -27.2°C
+                    
+                    Humidity:
+                    50%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    Miscou Island
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    101.8 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -13.1°C
+                    
+                    Dewpoint:
+                    -18.8°C
+                    
+                    Humidity:
+                    63%
+                    Wind:
+                    
+                      W 23 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -22
+Observed at: 
+                    Point Lepreau
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -12.3°C
+                    
+                    Dewpoint:
+                    -21.2°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      NW 12  gust 28 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -19
+Observed at: 
+                    CFB Gagetown
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.9°C
+                    
+                    Dewpoint:
+                    -26.7°C
+                    
+                    Humidity:
+                    39%
+                    Wind:
+                    
+                      W 17 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Bouctouche AAFC
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -14.8°C
+                    
+                    Dewpoint:
+                    -23.7°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      W 18  gust 32 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    St. Leonard Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -19.5°C
+                    
+                    Dewpoint:
+                    -27.2°C
+                    
+                    Humidity:
+                    50%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    Fundy Park (Alma)
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                  
+                  
+                    Temperature:
+                    -15.5°C
+                    
+                    Dewpoint:
+                    -21.1°C
+                    
+                    Humidity:
+                    62%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -21
+Observed at: 
+                    St. Leonard Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -19.5°C
+                    
+                    Dewpoint:
+                    -27.2°C
+                    
+                    Humidity:
+                    50%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    Saint John Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.6°C
+                    
+                    Dewpoint:
+                    -24.5°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      NW 20 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Nappan AAFC
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.2 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -13.8°C
+                    
+                    Dewpoint:
+                    -19.6°C
+                    
+                    Humidity:
+                    61%
+                    Wind:
+                    
+                      WNW 25 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    Charlo
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.3 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -17.8°C
+                    
+                    Dewpoint:
+                    -24.6°C
+                    
+                    Humidity:
+                    55%
+                    Wind:
+                    
+                      W 12 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Doaktown
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.3 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -16.4°C
+                    
+                    Dewpoint:
+                    -25.4°C
+                    
+                    Humidity:
+                    46%
+                    Wind:
+                    
+                      W 13 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    Bouctouche AAFC
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -14.8°C
+                    
+                    Dewpoint:
+                    -23.7°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      W 18  gust 32 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    Bouctouche AAFC
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -14.8°C
+                    
+                    Dewpoint:
+                    -23.7°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      W 18  gust 32 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -24
+Observed at: 
+                    Fundy Park (Alma)
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                  
+                  
+                    Temperature:
+                    -15.5°C
+                    
+                    Dewpoint:
+                    -21.1°C
+                    
+                    Humidity:
+                    62%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -21
+Observed at: 
+                    Saint John Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.6°C
+                    
+                    Dewpoint:
+                    -24.5°C
+                    
+                    Humidity:
+                    47%
+                    Wind:
+                    
+                      NW 20 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Bas Caraquet
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.0 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    19 km
+                    
+                  
+                  
+                    Temperature:
+                    -14.6°C
+                    
+                    Dewpoint:
+                    -19.3°C
+                    
+                    Humidity:
+                    67%
+                    Wind:
+                    
+                      W 30  gust 44 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    CFB Gagetown
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.4 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -15.9°C
+                    
+                    Dewpoint:
+                    -26.7°C
+                    
+                    Humidity:
+                    39%
+                    Wind:
+                    
+                      W 17 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -25
+Observed at: 
+                    Grand Manan
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    27 km
+                    
+                  
+                  
+                    Temperature:
+                    -12.1°C
+                    
+                    Dewpoint:
+                    -19.0°C
+                    
+                    Humidity:
+                    57%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -17
+Observed at: 
+                    Bathurst Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Sunny
+                    Pressure:
+                    102.1 kPa
+                    
+                    Tendency:
+                    rising
+                    Visibility:
+                    24 km
+                    
+                  
+                  
+                    Temperature:
+                    -16.1°C
+                    
+                    Dewpoint:
+                    -26.0°C
+                    
+                    Humidity:
+                    43%
+                    Wind:
+                    
+                      WNW 23 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
+Observed at: 
+                    St. Leonard Airport
+                    Date: 
+                    5:00 PM AST Saturday 17 January 2015
+                  
+                  
+                    Condition:
+                    Not observed
+                    Pressure:
+                    102.5 kPa
+                    
+                    Tendency:
+                    rising
+                  
+                  
+                    Temperature:
+                    -19.5°C
+                    
+                    Dewpoint:
+                    -27.2°C
+                    
+                    Humidity:
+                    50%
+                    Wind:
+                    
+                      NW 9 km/h
+                    
+                    
+                      Wind Chill:
+				
+                    -26
